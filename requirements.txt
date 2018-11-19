@@ -1,0 +1,10 @@
+networkx==1.11
+numpy
+scipy
+tqdm
+gensim
+joblib
+fastdtw
+nltk
+sklearn
+matplotlib
