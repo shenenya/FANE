@@ -1,3 +1,1 @@
-# ANode2Vec
-
-Attribute Node2Vec
+Flexible Attributed Network Embedding
